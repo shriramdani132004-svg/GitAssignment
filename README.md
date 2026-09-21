@@ -1,7 +1,8 @@
 # GitAssignment
 
 ## About Me
-Name: tanveer singh
+Name: shriram dani 
+
 Course: DevOps
 
 ## My Git Learning
