@@ -1,18 +1,8 @@
 # GitAssignment
 
 ## About Me
-My name is Shriram. I am a student interested in software development, programming, Git, GitHub, and DevOps.
+Name: Shriram
+Course: DevOps
 
 ## My Git Learning
-Through this assignment, I learned how to initialize a Git repository, create commits, connect a local repository to GitHub, push and pull changes, create branches, switch between branches, and merge changes.
-
-## Skills
-- Java Programming
-- Python Programming
-- SQL
-- Git and GitHub
-- DevOps
-
-## Project
-This repository contains my Git and DevOps practical assignment.
-
+I learned Git, GitHub, commits, branches, fetch, pull and merge.

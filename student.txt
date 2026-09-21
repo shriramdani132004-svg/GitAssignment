@@ -1,8 +1,2 @@
-Student Information
-===================
 Name: Shriram
 Course: DevOps
-Role: Student
-Interests: Software Development, Java, Python, SQL, Git, GitHub, and DevOps
-Project: GitAssignment
-
